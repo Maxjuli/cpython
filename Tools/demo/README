@@ -1,8 +1,8 @@
 This directory contains a collection of demonstration scripts for
 various aspects of Python programming.
 
-beer.py        Well-known programming example: Bottles of beer.
-eiffel.py      Python advanced magic: A metaclass for Eiffel post/preconditions.
+beer.py        Well-known programm，你，吗， ，吗
+ic: A metaclass for Eiffel post/preconditions.
 hanoi.py       Well-known programming example: Towers of Hanoi.
 life.py        Curses programming: Simple game-of-life.
 markov.py      Algorithms: Markov chain simulation.
